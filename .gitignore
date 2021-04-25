@@ -36,3 +36,4 @@ yarn-error.log*
 # graphql
 types
 codegen.yml
+lib
